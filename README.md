@@ -1,1 +1,1 @@
-This is a small wep app which helps user to manage task easily.
+This is a small web app that helps users to manage tasks easily.
